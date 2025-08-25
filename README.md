@@ -1,6 +1,6 @@
 # Fitness_Tracker_And_Gym_PowerBI_Dashboard
 
-[![PowerBI](
+[![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Overall.PNG)
 
 > A comprehensive PowerBI solution for fitness gym management, member analytics, and health tracking
 
