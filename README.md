@@ -1,4 +1,4 @@
-# Fitness_Tracker_And_Gym_PowerBI_Dashboard
+# Fitness Tracker And Gym Power BI Dashboard
 
 [![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_overallsheet.PNG)
 
