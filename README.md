@@ -2,6 +2,11 @@
 
 [![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_overallsheet.PNG)
 
+![Power BI](https://img.shields.io/badge/PowerBI-Business--Intelligence-yellow)
+![DAX](https://img.shields.io/badge/DAX-Calculations-blue)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Optimized-green)
+
+
 > A comprehensive PowerBI solution for fitness gym management, member analytics, and health tracking
 
 ## 🔗 Live Dashboard
