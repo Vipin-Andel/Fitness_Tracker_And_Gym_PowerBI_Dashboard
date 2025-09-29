@@ -2,7 +2,7 @@
 
 
 
-| Home | Overall Analytics |
+| Home | Overall  |
 |------|------------------|
 | ![Home](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_dashboard_images/Home.PNG) | ![Overallsheet](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_dashboard_images/Overallsheet.PNG) |
 
