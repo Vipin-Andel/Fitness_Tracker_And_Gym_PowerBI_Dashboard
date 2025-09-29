@@ -1,6 +1,9 @@
 # Fitness Tracker And Gym Power BI Dashboard
 
-[![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_overallsheet.PNG)
+[![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_dashboard_images/Home.PNG)
+[![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_dashboard_images/Overallsheet.PNG)
+[![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_dashboard_images/Calculator.PNG)
+[![PowerBI](https://github.com/Vipin-Andel/Fitness_Tracker_And_Gym_PowerBI_Dashboard/blob/main/Fitness_dashboard_images/Members.PNG)
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Business--Intelligence-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Calculations-blue)
